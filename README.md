@@ -8,13 +8,6 @@
 
 ---
 
-### 💻 What I'm Doing
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Work%20Culture/Multitasking.gif" width="350" alt="Multitasking Animation" />
-</div>
-
----
-
 ### 🎙️ Live Status (Lanyard)
 <div align="center">
   <a href="https://lanyard.rest/v1/users/1366110873248071801">
