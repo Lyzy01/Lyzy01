@@ -8,9 +8,18 @@
 
 ---
 
+### 💻 What I'm Doing
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Work%20Culture/Multitasking.gif" width="350" alt="Multitasking Animation" />
+</div>
+
+---
+
 ### 🎙️ Live Status (Lanyard)
 <div align="center">
-  <img src="https://api.lanyard.rest/v1/users/1366110873248071801?theme=dark&bg=131211&animated=true" alt="Discord Status" />
+  <a href="https://lanyard.rest/v1/users/1366110873248071801">
+    <img src="https://api.lanyard.rest/v1/users/1366110873248071801?theme=dark&bg=131211&animated=true" alt="Discord Status" />
+  </a>
 </div>
 
 ---
@@ -25,7 +34,7 @@
 ### 📊 GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lyzy01&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lyzy01&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyzy01&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
